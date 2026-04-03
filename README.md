@@ -42,7 +42,7 @@ For Windows, you need:
 
 ### 2. Clone or Extract Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/chetanraje27/Text-Extractor.git
 cd TextExtractor
 ```
 
